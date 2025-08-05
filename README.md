@@ -1,3 +1,5 @@
+# 手机版本问题详见[READMobile](https://github.com/Wangxiaolu0716/Auto_Hanser_Sign_Like/blob/mobile/READMobile)
+***
 # Auto_Hanser_Sign_Like全自动签到程序
  
  一个帮助**无空闲者**进行打卡操作的程序
